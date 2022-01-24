@@ -3,6 +3,9 @@ using namespace std;
 
 int main()
 {
-    cout << "hello";
+    int a=2;
+    int b=6;
+
+    cout << "multiply"+(a*b);
     return 0;
 }
